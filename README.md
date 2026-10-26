@@ -16,7 +16,7 @@ Disabling `portalservices` does **not** affect local control. Lights, scenes, an
 
 - A Philips Hue Bridge on your local network
 - `curl` installed (standard on macOS; install via Homebrew on Linux if needed)
-- The bridge's local IP address (default: `192.168.10.11`)
+- The bridge's local IP address (Script default: `192.168.10.11`)
 
 ## Usage
 
